@@ -1,0 +1,199 @@
+body{
+	color: #000000;
+	margin:0px;
+}
+/*this is aheader*/
+header{
+	height: 50px;
+}
+/*this is first nav*/
+nav.l{
+	float: right;
+	background-color: #D8D8D8;
+	width: 100%;
+	text-align: right;
+}
+/*this is link of first nav*/
+nav.l a{
+	text-decoration: none;
+	padding-right: 2px;
+	margin-right: 4px;
+	color: #A4A4A4;
+	line-height: 30px;
+	font-size: 10px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+/*this is a logo*/
+#logo{
+	margin-top:15px;
+	margin-left:1px;
+	float: left;
+	line-height: 10px;
+}
+/*this is class u of small*/
+.u{
+	margin: 0px 20px;
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+/*this is just h2 in logo*/
+#logo h2{
+	margin:0px 10px;
+	text-align: center;
+	font-size: 42px;
+	line-height: 40px;
+	letter-spacing: -5px;
+	font-family: 'Odibee Sans', cursive;
+}
+/*this is second nav*/
+nav.k{
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	margin-right: 2px;
+	text-align: center;
+	width: 580px;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+/*this is link of second nav*/
+nav.k a{
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+	line-height: 20px;
+	float: left;
+	padding-right: 30px;
+	color: #A4A4A4;
+}
+/*this is img of second nav*/
+nav.k img{
+	height: 15px;
+	width: 15px;
+}
+/*this is first section*/
+/*this is first div in first section*/
+div.para{
+	text-align: center;
+	margin: 20px;
+}
+/*this is first div inside first div*/
+div.p1{
+	font-size: 25px;
+	color: #A4A4A4;
+	font-family: 'Odibee Sans', cursive;
+}
+/*this is first bold*/
+b.b1{
+	color: #000000;
+}
+/*this is second div inside first div*/
+div.p2{
+	font-size: 23px;
+	color: #A4A4A4;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+/*this is second bold*/
+b.b2{
+	color: #000000;
+}
+/*this is second div in first section*/
+div.a{
+	float: left;
+	margin:15px 5px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+/*this is p of div class a*/
+div.a p{
+	width: 290px;
+}
+/*this is second section*/
+/*this is first div in first section*/
+div.j{
+	clear: both;
+	background-color:#D8D8D8; 
+	font-family: 'Source Sans Pro', sans-serif;
+}
+/*this is  img of first div*/
+div.j img{
+	float: left;
+	padding-left: 50px;
+	transform: rotate(350deg);
+}
+/*this is  p of first div*/
+div.j p{
+	padding:20px 11%;
+	margin-bottom: 0px
+}
+/*this is second div*/
+div.m{
+	float: left;
+	background-color: #BDBDBD;
+	width: 100%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+div.n{
+	float: left;
+	margin:0px 40px ;
+
+}
+div h4.a{
+	letter-spacing: -1px;
+	word-spacing: 3px;
+	font-size: 18px;
+}
+p.d{
+	width: 600px;
+	font-size: 15px;
+}
+div.v img{
+	width: 60px;
+	height: 50px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
+p.s{
+	font-size:15px;
+	width: 300px;
+}
+.o{
+	font-size: 11px;
+}
+div.n a{
+	text-decoration: none;
+	line-height: 25px;
+	color: #585858;
+}
+p.f{
+	line-height: 20px;
+	width: 200px;
+	font-family: 'Titillium Web', sans-serif;
+}
+.q{
+	float: left;
+	background-color: #585858;
+	width: 100%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+div.x{
+	float: left;
+	margin: 0px 20px;
+}
+div.w{
+	float: right;
+	margin-right: 10px;
+	padding:10px 10px;
+}
+div.w img{
+	height: 20px;
+	width: 20px;
+	margin: 3px;
+	line-height: 100px;
+	border: solid;
+	border-color: #ffffff;
+}
+.t{
+	font-size: 10px;
+	color: #585858;
+}
